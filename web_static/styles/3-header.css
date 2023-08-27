@@ -9,6 +9,7 @@ header {
 .logo {
   background-image: url('/images/logo.png');
   background-repeat: no-repeat, repeat;
+  background-origin: content-box;
   width: 142px;
   height: 60px;
   padding-left: 20px;
